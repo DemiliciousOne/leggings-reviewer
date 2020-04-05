@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://leggingsreviewer.ghost.io",
+    "contentApiKey": "3e729fa7a6ede5b2d76187b1a3"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://leggingsreviewer.ghost.io",
+    "contentApiKey": "3e729fa7a6ede5b2d76187b1a3"
   }
 }
